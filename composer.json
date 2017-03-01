@@ -1,0 +1,16 @@
+{
+    "name": "beaplat/swal",
+    "description": "sweetAlert for Laravel 5.x",
+    "authors": [
+        {
+            "name": "beaplat",
+            "email": "beaplat@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Beaplat\\Swal\\": "src/"
+        }
+    }
+}
